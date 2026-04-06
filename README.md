@@ -1,5 +1,3 @@
-# retail-ai-pytorch
-
 # Retail Demand Forecasting using PyTorch (CNN + LSTM)
 
 ## Overview
