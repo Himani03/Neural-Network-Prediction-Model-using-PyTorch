@@ -1,4 +1,4 @@
-# Retail Demand Forecasting using PyTorch (CNN + LSTM)
+# Retail Product Recommendation System Using PyTorch
 
 ## Overview
 
