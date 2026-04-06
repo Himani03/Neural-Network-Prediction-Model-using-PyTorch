@@ -1,4 +1,4 @@
-# Retail Product Recommendation System Using PyTorch
+# Neural Network Prediction Model (PyTorch)
 
 ## Overview
 
